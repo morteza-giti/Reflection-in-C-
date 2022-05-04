@@ -1,0 +1,40 @@
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.frmMain.resources
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.Properties.Resources.resources
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\bin\Debug\MyResourceHacker.exe
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\bin\Debug\MyResourceHacker.pdb
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.exe
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.pdb
+C:\Users\Morteza\documents\visual studio 2010\Projects\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.InputBox.resources
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.exe
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.pdb
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\bin\Debug\MyResourceHacker.exe
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\bin\Debug\MyResourceHacker.pdb
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.frmMain.resources
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.InputBox.resources
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.Properties.Resources.resources
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Morteza\Desktop\MyResourceHacker\MyResourceHacker\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.exe
+N:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.pdb
+N:\MyResourceHacker\MyResourceHacker\bin\Debug\MyResourceHacker.exe
+N:\MyResourceHacker\MyResourceHacker\bin\Debug\MyResourceHacker.pdb
+N:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.frmMain.resources
+N:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.InputBox.resources
+N:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.Properties.Resources.resources
+N:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\GenerateResource.read.1.tlog
+N:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.exe
+F:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.pdb
+F:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.frmMain.resources
+F:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.InputBox.resources
+F:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\MyResourceHacker.Properties.Resources.resources
+F:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\MyResourceHacker\MyResourceHacker\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\MyResourceHacker\MyResourceHacker\bin\Debug\MyResourceHacker.exe
+F:\MyResourceHacker\MyResourceHacker\bin\Debug\MyResourceHacker.pdb

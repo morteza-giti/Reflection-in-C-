@@ -1,0 +1,20 @@
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\SampleDll\bin\Debug\SampleDll.dll
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\SampleDll\bin\Debug\SampleDll.pdb
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\SampleDll\obj\Debug\ResolveAssemblyReference.cache
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\SampleDll\obj\Debug\SampleDll.dll
+c:\users\morteza\documents\visual studio 2010\Projects\MyResourceHacker\SampleDll\obj\Debug\SampleDll.pdb
+C:\Users\Morteza\Desktop\MyResourceHacker\SampleDll\bin\Debug\SampleDll.dll
+C:\Users\Morteza\Desktop\MyResourceHacker\SampleDll\bin\Debug\SampleDll.pdb
+C:\Users\Morteza\Desktop\MyResourceHacker\SampleDll\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Morteza\Desktop\MyResourceHacker\SampleDll\obj\Debug\SampleDll.dll
+C:\Users\Morteza\Desktop\MyResourceHacker\SampleDll\obj\Debug\SampleDll.pdb
+N:\MyResourceHacker\SampleDll\bin\Debug\SampleDll.dll
+N:\MyResourceHacker\SampleDll\bin\Debug\SampleDll.pdb
+N:\MyResourceHacker\SampleDll\obj\Debug\ResolveAssemblyReference.cache
+N:\MyResourceHacker\SampleDll\obj\Debug\SampleDll.dll
+N:\MyResourceHacker\SampleDll\obj\Debug\SampleDll.pdb
+F:\MyResourceHacker\SampleDll\bin\Debug\SampleDll.dll
+F:\MyResourceHacker\SampleDll\bin\Debug\SampleDll.pdb
+F:\MyResourceHacker\SampleDll\obj\Debug\ResolveAssemblyReference.cache
+F:\MyResourceHacker\SampleDll\obj\Debug\SampleDll.dll
+F:\MyResourceHacker\SampleDll\obj\Debug\SampleDll.pdb
